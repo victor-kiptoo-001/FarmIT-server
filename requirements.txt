@@ -1,0 +1,8 @@
+Flask==3.0.3
+google-auth== 2.32.0
+google-auth-oauthlib==1.2.1
+earthengine-api==0.1.414
+gunicorn==22.0.0
+flask-cors==4.0.1
+Pillow==9.0.1
+
